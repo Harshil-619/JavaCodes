@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "LinearSearch.C": "cpp"
+    },
+    "cmake.configureOnOpen": true,
+    "java.debug.settings.onBuildFailureProceed": true
+}

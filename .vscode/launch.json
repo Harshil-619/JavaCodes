@@ -1,0 +1,302 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DateTimeAPI",
+            "request": "launch",
+            "mainClass": "DateTimeAPI",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "DateAndTime",
+            "request": "launch",
+            "mainClass": "DateAndTime",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "GenericsComparable",
+            "request": "launch",
+            "mainClass": "GenericsComparable",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "GenericsComparator",
+            "request": "launch",
+            "mainClass": "GenericsComparator",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsGenerics",
+            "request": "launch",
+            "mainClass": "CollectionsGenerics",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Generics3",
+            "request": "launch",
+            "mainClass": "Generics3",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Generics1",
+            "request": "launch",
+            "mainClass": "Generics1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "HashMapvsWeakHashMap",
+            "request": "launch",
+            "mainClass": "HashMapvsWeakHashMap",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "MapHashTable",
+            "request": "launch",
+            "mainClass": "MapHashTable",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "MapHashMap2",
+            "request": "launch",
+            "mainClass": "MapHashMap2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "MapAccessHashMap",
+            "request": "launch",
+            "mainClass": "MapAccessHashMap",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "MapHashMap",
+            "request": "launch",
+            "mainClass": "MapHashMap",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionFailFastFailSafe",
+            "request": "launch",
+            "mainClass": "CollectionFailFastFailSafe",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionIterator",
+            "request": "launch",
+            "mainClass": "CollectionIterator",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionHasSet",
+            "request": "launch",
+            "mainClass": "CollectionHasSet",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionTreeSet",
+            "request": "launch",
+            "mainClass": "CollectionTreeSet",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionPriorityQueue1",
+            "request": "launch",
+            "mainClass": "CollectionPriorityQueue1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionArrayDeque",
+            "request": "launch",
+            "mainClass": "CollectionArrayDeque",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionLinkedList2",
+            "request": "launch",
+            "mainClass": "CollectionLinkedList2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionLinkedList1",
+            "request": "launch",
+            "mainClass": "CollectionLinkedList1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionArrayList2",
+            "request": "launch",
+            "mainClass": "CollectionArrayList2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "ComplexPattern",
+            "request": "launch",
+            "mainClass": "ComplexPattern",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Hospital",
+            "request": "launch",
+            "mainClass": "Hospital",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern",
+            "request": "launch",
+            "mainClass": "TrianglePattern",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "G_pattern",
+            "request": "launch",
+            "mainClass": "G_pattern",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "CollectionArrayList1",
+            "request": "launch",
+            "mainClass": "CollectionArrayList1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "waaste",
+            "request": "launch",
+            "mainClass": "waaste",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "name": "(gdb) Bash on Windows Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "pipeTransport": {
+                "debuggerPath": "/usr/bin/gdb",
+                "pipeProgram": "${env:windir}\\system32\\bash.exe",
+                "pipeArgs": [
+                    "-c"
+                ],
+                "pipeCwd": ""
+            },
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
