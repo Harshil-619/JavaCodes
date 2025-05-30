@@ -17,6 +17,7 @@ class Demo2 extends Demo1
     int m,n;
     public Demo2()
     {
+         //super(); By default
         this(10 , 20);
         System.out.println("Child class constructor");
     }

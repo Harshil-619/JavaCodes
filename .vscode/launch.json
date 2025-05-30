@@ -6,6 +6,230 @@
     "configurations": [
         {
             "type": "java",
+            "name": "constructorThisSuper",
+            "request": "launch",
+            "mainClass": "constructorThisSuper",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance3Multilevel",
+            "request": "launch",
+            "mainClass": "Inheritance3Multilevel",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "Inheritance2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "Inheritance1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "HeartAnimation",
+            "request": "launch",
+            "mainClass": "HeartAnimation",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "DSA_PalindromeArray",
+            "request": "launch",
+            "mainClass": "DSA_PalindromeArray",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IOtransient",
+            "request": "launch",
+            "mainClass": "IOtransient",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO10",
+            "request": "launch",
+            "mainClass": "IO10",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO9",
+            "request": "launch",
+            "mainClass": "IO9",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO9DeSerialization",
+            "request": "launch",
+            "mainClass": "IO9DeSerialization",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO8Serialization",
+            "request": "launch",
+            "mainClass": "IO8Serialization",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO7",
+            "request": "launch",
+            "mainClass": "IO7",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO6",
+            "request": "launch",
+            "mainClass": "IO6",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO5",
+            "request": "launch",
+            "mainClass": "IO5",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO4o2",
+            "request": "launch",
+            "mainClass": "IO4o2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO4",
+            "request": "launch",
+            "mainClass": "IO4",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO3",
+            "request": "launch",
+            "mainClass": "IO3",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO2",
+            "request": "launch",
+            "mainClass": "IO2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "IO1",
+            "request": "launch",
+            "mainClass": "IO1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Annotations2Custom",
+            "request": "launch",
+            "mainClass": "Annotations2Custom",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Annotations1",
+            "request": "launch",
+            "mainClass": "Annotations1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "Annotation1",
+            "request": "launch",
+            "mainClass": "Annotation1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "enums3",
+            "request": "launch",
+            "mainClass": "enums3",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "enums2",
+            "request": "launch",
+            "mainClass": "enums2",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "enums1",
+            "request": "launch",
+            "mainClass": "enums1",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPI",
+            "request": "launch",
+            "mainClass": "StreamAPI",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "StreamMethod",
+            "request": "launch",
+            "mainClass": "StreamMethod",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "ForEachMethod",
+            "request": "launch",
+            "mainClass": "ForEachMethod",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "SudokuSolver",
+            "request": "launch",
+            "mainClass": "SudokuSolver",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "ContactManager",
+            "request": "launch",
+            "mainClass": "ContactManager",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "GuesserGame",
+            "request": "launch",
+            "mainClass": "GuesserGame",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConversion",
+            "request": "launch",
+            "mainClass": "TemperatureConversion",
+            "projectName": "java_22b087e1"
+        },
+        {
+            "type": "java",
             "name": "DateTimeAPI",
             "request": "launch",
             "mainClass": "DateTimeAPI",

@@ -11,7 +11,7 @@ class Tiger extends Animal
 }
 class Leapord extends Animal
 {
-
+    
 }
 
 

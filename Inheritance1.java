@@ -22,7 +22,7 @@
 
 class Human {
     int age;
-    void sleep ()
+    public void sleep()
     {
         age=18;
         System.out.println("Human is chutiya");
@@ -35,7 +35,7 @@ class Student extends Human
 }
 public class Inheritance1 {
     public static void main(String[] args) {
-        Student st =new Student();
+        Student st = new Student();
         st.sleep(); 
     }
 }

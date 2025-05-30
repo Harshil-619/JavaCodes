@@ -35,3 +35,8 @@ public class Inheritance2 {
     }
 }
 
+
+
+
+
+
